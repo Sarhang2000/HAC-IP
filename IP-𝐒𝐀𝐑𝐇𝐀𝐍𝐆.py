@@ -147,6 +147,7 @@ def TrackLu():
             {"url": "https://www.producthunt.com/@{}", "name": "Product Hunt"},
             {"url": "https://www.snapchat.com/add/{}", "name": "Snapchat"},
             {"url": "https://www.telegram.me/{}", "name": "Telegram"},
+            {"url": "https://www.rubika.ir.me/{}", "name": "rubika.ir"},
             {"url": "https://www.weheartit.com/{}", "name": "We Heart It"}
         ]
         for site in social_media:
